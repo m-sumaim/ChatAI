@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ChatAI</string>
     <string name="chatai">ChatAI</string>
+    <string name="chatai_is_an_ai_chatbot_developed_using_openai_based_on_gpt_3_5_and_gpt_4_and_has_been_fine_tuned_for_conversational_applications_both_supervised_and_reinforcement_learning_techniques">ChatAI is an AI chatbot, developed using OpenAI based on GPT-3.5 and GPT-4, and has been fine tuned for conversational applications both supervised and reinforcement learning techniques</string>
 </resources>
